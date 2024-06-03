@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.cdnfonts.com/css/serpentine');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
+header h1{
+    padding-left: 15px;
+    font-size: 40px;
+}
+header h1, h2{
+    color: rgb(211, 211, 211);
+    display: inline;
+    
+    font-family: 'SERPENTINE', sans-serif;                          
+}
+.header h1 h2{
+    font-size: 30px;
+}
+nav{
+    text-align: right;
+    display: inline;
+}
+nav a{
+    font-size: x-large;
+    display: inline;
+    text-decoration: none;
+    color: rgb(212, 212, 212);
+    float: right;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+
+    font-family: 'SERPENTINE', sans-serif;                                               
+}
+a{
+    text-decoration: none;
+}
+.header{
+    padding-top: 15px;
+    padding-bottom: 30px;
+    background-color: black;
+    height: 35px;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+html,body {
+    padding:0;
+    margin:0;
+    background-color: black;
+}
+.section1{
+    box-sizing: border-box;
+    background: linear-gradient( rgba(0, 0, 0, 0.514), rgba(0, 0, 0, 0.5) ), url(https://mrwallpaper.com/images/hd/sekiro-shadows-die-twice-star-weapon-3b91tbt1qg9myafw.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 99vw;
+    height: 250vh;
+}
+.cont{
+    width: 65vw;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.377);
+    border-radius: 15px;
+}
+.section1 h1{
+    margin: 0;
+    padding: 10vh;
+    font-size: 2vw;
+    font-size: 4vw;
+
+    color: rgb(255, 214, 163);
+    
+    font-family: 'SERPENTINE', sans-serif;                                            
+}
+.cont h2{
+    font-size: 2vw;
+    color: rgb(255, 214, 163);
+
+}
+.cont p{
+    padding-top: 5vh;
+    color: rgb(255, 214, 163);
+    width: 45vw;
+    text-align: center;
+    font-size: x-large;
+    
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;  
+}
+.cont img{
+    width: 40vw;
+    padding: 3vw;
+    border-radius: 15%;
+}
+.footer{
+    background-color: black;
+    width: 99vw;
+    height: 39vh;
+}
+.footer table{
+    width: 75%;
+    height: 40vh;
+    margin: auto;
+}
+.footer h1{
+    display: block;
+    color: white;
+    font-size: 4vw;
+    margin-bottom: 5vh;
+
+    font-family: 'SERPENTINE', sans-serif;   
+
+}
+.footer td{
+    padding-bottom: 1vw;
+    border-radius: 5px;
+    color: rgb(208, 191, 136);
+    text-align: center;
+    font-size: x-large;
+
+    
+}
+.footer a{
+    text-decoration: none;
+    color: #dddd;
+    display: inline;
+    font-size: xx-large;
+}
+.footer img{
+    height: 1.5vw;
+    width: 1.5vw;
+    margin: auto;
+    color: rgb(208, 191, 136);
+}
+img.two{
+    width: 2vw;
+
+}

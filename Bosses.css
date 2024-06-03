@@ -1,0 +1,296 @@
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.cdnfonts.com/css/serpentine');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+html{
+    scroll-behavior: smooth;
+}
+header h1{
+    padding-left: 15px;
+    font-size: 40px;
+}
+header h1, h2{
+    color: rgb(211, 211, 211);
+    display: inline;
+    
+    font-family: 'SERPENTINE', sans-serif;                          
+}
+h1 h2{
+    font-size: 30px;
+}
+nav{
+    text-align: right;
+    display: inline;
+}
+nav a{
+    font-size: x-large;
+    display: inline;
+    text-decoration: none;
+    color: rgb(212, 212, 212);
+    float: right;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+
+    font-family: 'SERPENTINE', sans-serif;                                               
+}
+a{
+    text-decoration: none;
+}
+.header{
+    padding-top: 15px;
+    padding-bottom: 30px;
+    background-color: black;
+    height: 35px;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+html,body {
+    padding:0;
+    margin:0;
+    background-color: black;
+}
+.section1{
+    height: 200vh;
+    box-sizing: border-box;
+    background: linear-gradient( rgba(0, 0, 0, 0.514), rgba(0, 0, 0, 0.5) ), url(https://i.ytimg.com/vi/_EB2wZVNlH0/maxresdefault.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 99vw;
+    height: auto;
+}
+.boss-tb h1{
+    color: bisque;
+    font-size: 4vw;
+    margin: auto;
+    padding: 10vh;
+    display: block;
+    width: 23vw;
+
+    font-family: 'SERPENTINE', sans-serif;                                            
+}
+table{
+    margin: auto;
+    width: 65vw;
+    height: 60vh;
+    background-color: rgba(0, 0, 0, 0.445);
+    border-radius: 50px;
+    margin-bottom: 15vh;
+}
+td, th {
+    text-align: left;
+    padding: 8px;
+    width: 32.5vw;
+  }
+  .boss-tb h2{
+    margin-left: 17.5vw;
+    color: rgb(255, 202, 138);
+    font-size: 2vw;
+    padding-top: 100px;
+
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;  
+}
+  .two{
+    border-radius: 0px 50px 50px 0px;
+  }
+  p{
+    width: 30vw;
+    color: rgb(255, 202, 138);
+    font-size: 1.6vw;
+
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+}
+.t1 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/02/Sekiro-Gyoubu-Masataka-Owina.jpg?q=70&fit=crop&w=740&dpr=1);
+    background-size: 190%;
+    background-position: 40%;
+    background-repeat: no-repeat;
+}
+.t2 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Sekiro-Boss-Lore-3.jpg?q=70&fit=crop&w=740&dpr=1);
+    background-size: 190%;
+    background-position: 40%;
+    background-repeat: no-repeat;
+}
+.t3 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/01/Genichiro-Cropped-1.jpg?q=70&fit=crop&w=740&dpr=1);
+    background-size: 190%;
+    background-position: 40%;
+    background-repeat: no-repeat;
+}
+.t4 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/02/Sekiro-Folding-Screen-Monkeys.jpg?q=70&fit=crop&w=740&dpr=1);
+    background-size: 190%;
+    background-position: 40%;
+    background-repeat: no-repeat;
+}
+.t5 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/07/sekiro-guardian-ape.jpg?q=49&fit=crop&w=740&dpr=2);
+    background-size: 190%;
+    background-position: 40%;
+    background-repeat: no-repeat;
+}
+.t6 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/02/Sekiro-Corrupted-Monk.jpg?q=70&fit=crop&w=740&dpr=1);
+    background-size: 190%;
+    background-position: 40%;
+    background-repeat: no-repeat;
+}
+.t7 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/05/Sekiro-Shadows-Die-Twice-Optional-Missable-Bosses-Events-7.jpg?q=70&fit=crop&w=740&dpr=1);
+    background-size: 190%;
+    background-position: 40%;
+    background-repeat: no-repeat;
+}
+.t8 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/02/Sekiro-Isshin-Ashina.jpg?q=70&fit=crop&w=740&dpr=1);
+    background-size: 190%;
+    background-position: 95%;
+    background-repeat: no-repeat;
+}
+.t9 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/02/Sekiro-Great-Shinobi-Owl.jpg?q=49&fit=crop&w=740&dpr=2);
+    background-size: 190%;
+    background-position: 80%;
+    background-repeat: no-repeat;
+}
+.t10 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/01/sekiroshadowsdietwice-Cropped.jpg?q=49&fit=crop&w=740&dpr=2);
+    background-size: 190%;
+    background-position: 70%;
+    background-repeat: no-repeat;
+}
+.t11 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/02/Sekiro-Divine-Dragon.jpg?q=70&fit=crop&w=740&dpr=1);
+    background-size: 190%;
+    background-position: 40%;
+    background-repeat: no-repeat;
+}
+.t12 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://oyster.ignimgs.com/mediawiki/apis.ign.com/shadows-die-twice/3/3c/Sekiro-great-shinobi-owl.jpg.optimal.jpg);
+    background-size: 190%;
+    background-position: 40%;
+    background-repeat: no-repeat;
+}
+.t13 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/01/Sekiro_Demon_of_Hatred-Cropped.jpg?q=70&fit=crop&w=740&dpr=1);
+    background-size: 190%;
+    background-position: 70%;
+    background-repeat: no-repeat;
+}
+.t14 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/02/Sekiro-Shadows-Die-Twice-Isshin.jpg?q=70&fit=crop&w=740&dpr=1);
+    background-size: 190%;
+    background-position: 80%;
+    background-repeat: no-repeat;
+}
+.t15 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/wm/2024/04/inner-genichiro-boss-in-sekiro-shadows-die-twice.jpg?q=70&fit=crop&w=740&dpr=1);
+    background-size: 190%;
+    background-position: 40%;
+    background-repeat: no-repeat;
+}
+.t16 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/wm/2024/04/inner-father-boss-in-sekiro-shadows-die-twice.jpg?q=70&fit=crop&w=740&dpr=1);
+    background-size: 190%;
+    background-position: 40%;
+    background-repeat: no-repeat;
+}
+.t17 .one{
+    border-radius: 50px 0px 0px 50px;
+    background-image: url(https://static1.thegamerimages.com/wordpress/wp-content/uploads/wm/2024/04/inner-isshin-boss-in-sekiro-shadows-die-twice.jpg?q=70&fit=crop&w=740&dpr=1);
+    background-size: 190%;
+    background-position: 40%;
+    background-repeat: no-repeat;
+}
+.t17{
+    padding-bottom: 8vh;
+}
+.window{
+    display: block;
+    width: 10vw;
+    background-color: #00000079;
+    padding: 1.5vw;
+    border-radius: 10px;
+    position: absolute;
+}
+.container{
+    padding-top: 5vh;
+    position: sticky;
+    top: 11vh;
+}
+.window a{
+    color: bisque;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-size: 0.9vw;
+}
+.container1{
+    width: 10vw;
+    height: 1292vh;
+    position: absolute;
+}
+.footer{
+    background-color: black;
+    width: 99vw;
+    height: 39vh;
+}
+.footer table{
+    width: 75%;
+    height: 40vh;
+    margin: auto;
+}
+.footer h1{
+    display: block;
+    color: white;
+    font-size: 4vw;
+    margin-bottom: 5vh;
+
+    font-family: 'SERPENTINE', sans-serif;   
+
+}
+.footer td{
+    padding-bottom: 1vw;
+    border-radius: 5px;
+    color: rgb(208, 191, 136);
+    text-align: center;
+    font-size: x-large;
+
+    
+}
+.footer a{
+    text-decoration: none;
+    color: #dddd;
+    display: inline;
+    font-size: xx-large;
+}
+.footer img{
+    height: 1.5vw;
+    width: 1.5vw;
+    margin: auto;
+    color: rgb(208, 191, 136);
+}
+img.two{
+    width: 2vw;
+
+}
