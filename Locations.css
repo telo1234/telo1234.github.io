@@ -56,7 +56,7 @@ html,body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     width: 99vw;
-    height: 650vh;
+    height: 325vw;
 }
 .boss-tb h1{
     color: bisque;
@@ -189,7 +189,7 @@ td, th {
 .footer{
     background-color: black;
     width: 99vw;
-    height: 39vh;
+    height: 20vw;
 }
 .footer table{
     width: 75%;
