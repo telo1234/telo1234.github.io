@@ -51,7 +51,6 @@ html,body {
     background-color: black;
 }
 .section1{
-    height: 200vh;
     box-sizing: border-box;
     background: linear-gradient( rgba(0, 0, 0, 0.514), rgba(0, 0, 0, 0.5) ), url(https://preview.redd.it/i-started-making-a-series-of-cinematic-screenshots-what-v0-6pp33moo8lsb1.jpg?width=4960&format=pjpg&auto=webp&s=fba8c9c789c3b822593051986d075296cc76fdc2);
     background-size: cover;
@@ -223,6 +222,6 @@ img.two{
 }
 .container1{
     width: 10vw;
-    height: 900vh;
+    height: 1030vh;
     position: absolute;
 }
